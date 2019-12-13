@@ -1,1 +1,0 @@
-# KritiKathuria.github.io
