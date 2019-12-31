@@ -2,6 +2,8 @@
 layout: list
 title:  "Test"
 date:   2015-11-30 00:10:45
-permalink: /lists/test.html
+permalink: /lists/must_read.html
 ---
-This is test post
+
+
+[]
