@@ -1,0 +1,8 @@
+---
+layout: default
+---
+
+<h2>Reading Lists</h2>
+{% for list in site.lists %}
+		<h3><a href="{{ list.url | prepend: list.baseurl }}">{{ list.title }}</a></h3>
+{% endfor %}
