@@ -4,6 +4,5 @@ layout: default
 
 <h2>Reading Lists</h2>
 {% for list in site.lists %}
-		<time>{{ list.date | date: "%b %-d, %Y" }}</time>
 		<h3><a href="{{ list.url | prepend: list.baseurl }}">{{ list.title }}</a></h3>
 {% endfor %}

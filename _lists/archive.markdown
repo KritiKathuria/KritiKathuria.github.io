@@ -1,6 +1,6 @@
 ---
 layout: list
-title:  "Welcome to Jekyll!"
+title:  "Archive"
 date:   2015-11-30 00:10:45
 permalink: /lists/archive.html
 ---
